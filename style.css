@@ -1,0 +1,70 @@
+*{
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 1rem
+}
+
+body {
+   background-image: url(https://t1.uc.ltmcdn.com/es/posts/7/3/5/como_saber_que_windows_tengo_en_mi_pc_51537_orig.jpg);
+   width: 100%;
+   overflow: hidden ;
+
+}
+
+.flex-container {
+    display: flex;
+    padding: -15px;
+    flex-direction: row ;
+    text-align: right;
+}
+
+.caja {
+    color: rgb(24, 23, 21);
+    height: 120px;
+    width: 120px;
+    font-weight: bold;
+    line-height: 120px;
+    margin: 5px;
+    text-align: center;
+}  
+
+.caja7 {
+    left: 307px;
+    position: relative;
+    top: 20px;
+}
+
+.icons {
+    left: 290px;
+    position: relative;
+    font-weight: bold;
+    top: 10px;
+}
+
+.flex-container1 {
+    left: 76px;
+    position: absolute;
+    top: 153px;
+}
+
+h1 {
+    font-size: 30px;
+    left: 3px;
+    position: relative;
+
+}
+
+p {
+    font-size: 20px;
+    left: 211px;
+    position: relative;
+}
+
+button {
+    background: darkkhaki;
+    position: absolute;
+    top: 144px;
+    left: 530px;
+}
+
+    
